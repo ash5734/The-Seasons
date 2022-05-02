@@ -8,3 +8,4 @@ Hot
 Spring
 Rain
 Fall
+Chilly
